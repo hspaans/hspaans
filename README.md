@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #### Development Containers for VSCode and GitHub Codespaces
-- [Ansible](https://github.com/hspaans/ansible-devcontainer) 
+- [Ansible](https://github.com/hspaans/ansible-devcontainer)
