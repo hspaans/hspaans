@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 #### GitHub Actions
 - [Ansible Galaxy Role Importer](https://github.com/marketplace/actions/ansible-galaxy-role-importer)
-- [Ansible Molecule testing](https://github.com/marketplace/actions/ansible-molecule-testing)
 - [Latexmk](https://github.com/marketplace/actions/latexmk)
 - [SpamAssassin](https://github.com/marketplace/actions/spamassassin)
