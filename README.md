@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 #### Development Containers for VSCode and GitHub Codespaces
 - [Ansible](https://github.com/users/hspaans/packages/container/package/ansible-devcontainer) - Template for [Playbook](https://github.com/hspaans/ansible-playbook-template), [Role](https://github.com/hspaans/ansible-role-template)
 - [LaTeX](https://github.com/users/hspaans/packages/container/package/latex-devcontainer) - Template for multiple [Documents](https://github.com/hspaans/latex-template)
+- [PHP](https://github.com/users/hspaans/packages/container/package/php-devcontainer) - Template for [Symfony](https://github.com/hspaans/symfony-template)
 - [Python](https://github.com/users/hspaans/packages/container/package/python-devcontainer) - Template for [Django](https://github.com/hspaans/django-template), [Pipenv](https://github.com/hspaans/python-template)
 
 #### GitHub Actions
