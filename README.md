@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 - [SpamAssassin](https://github.com/marketplace/actions/spamassassin)
 
 #### Containers for Ansible Molecule
+- [CentOS Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-centos)
 - [Debian Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-debian)
 - [Ubuntu Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-ubuntu)
