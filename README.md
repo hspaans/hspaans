@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 
 - [CentOS Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-centos)
 - [Debian Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-debian)
+- [Fedora Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-fedora)
 - [Ubuntu Containers for Molecule](https://github.com/users/hspaans/packages/container/package/molecule-container-ubuntu)
