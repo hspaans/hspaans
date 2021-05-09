@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - Template for [Ansible Playbooks](https://github.com/hspaans/ansible-playbook-template)
 - Template for [LaTeX documents](https://github.com/hspaans/latex-template)
-- [PHP](https://github.com/users/hspaans/packages/container/package/php-devcontainer) - Template for [Symfony](https://github.com/hspaans/symfony-template)
 - Template for [Python](https://github.com/hspaans/python-template) based projects
+<!-- - [PHP](https://github.com/users/hspaans/packages/container/package/php-devcontainer) - Template for [Symfony](https://github.com/hspaans/symfony-template) -->
 
 #### GitHub Actions
 
