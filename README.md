@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Development Containers for VSCode and GitHub Codespaces
+#### GitHub Codespaces and VSCode Development Container Templates
 
 - Template for [Ansible Playbooks](https://github.com/hspaans/ansible-playbook-template)
 - Template for [LaTeX documents](https://github.com/hspaans/latex-template)
