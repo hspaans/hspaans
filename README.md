@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### GitHub Codespaces and VSCode Development Container Templates
 
-- Template for [Ansible Playbooks](https://github.com/hspaans/ansible-playbook-template)
+- Template for [Ansible Playbooks](https://github.com/hspaans/ansible-playbook-template) & [Roles](https://github.com/hspaans/ansible-role-template)
 - Template for [LaTeX documents](https://github.com/hspaans/latex-template)
 - Template for [Python](https://github.com/hspaans/python-template) based projects
 - Template for [Typescript & Node](https://github.com/hspaans/typescript-node-template) based projects
