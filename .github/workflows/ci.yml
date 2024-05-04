@@ -10,7 +10,7 @@ on:
 jobs:
   lint:
     name: Linting Code Base
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Code
@@ -19,14 +19,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install yamllint
-          sudo apt-get update
-          sudo apt-get -y install markdownlint
+          python -m pip install pymarkdownlnt yamllint
 
       - name: Lint with yamllint
         run: |
           yamllint . --format github
 
-      - name: Lint with markdownlint
+      - name: Lint with pymarkdownlint
         run: |
-          markdownlint `git ls-files *md`
+          pymarkdownlnt scan `git ls-files '*.md' ':!:*TEMPLATE/*md'`
