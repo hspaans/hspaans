@@ -16,8 +16,15 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Lint Code Base
-        uses: github/super-linter@v5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          VALIDATE_NATURAL_LANGUAGE: false
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pymarkdownlnt yamllint
+
+      - name: Lint with yamllint
+        run: |
+          yamllint . --format github
+
+      - name: Lint with pymarkdownlint
+        run: |
+          pymarkdownlnt -d MD013,MD041 scan `git ls-files '*.md' ':!:*TEMPLATE/*md'`
