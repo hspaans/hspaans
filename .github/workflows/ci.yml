@@ -2,8 +2,12 @@
 name: CI
 
 on:
-  pull_request:
   push:
+    branches:
+      - master
+    tags:
+      - v*
+  pull_request:
     branches:
       - master
 
@@ -27,4 +31,4 @@ jobs:
 
       - name: Lint with pymarkdownlint
         run: |
-          pymarkdownlnt -d MD013,MD041 scan `git ls-files '*.md' ':!:*TEMPLATE/*md'`
+          pymarkdownlnt scan `git ls-files '*.md' ':!:*TEMPLATE/*md'`
