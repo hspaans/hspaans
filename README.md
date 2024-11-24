@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a Staff Engingeer in the financial sector with a background in both sofware and electical engineering. I have a real passion for discovering and playing with new things in the hope to apply that knowledge in the future.
+
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -22,11 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-#### GitHub Codespaces and VSCode Development Container Templates
 
-- Template for [Ansible Playbooks](https://github.com/hspaans/ansible-playbook-template) & [Roles](https://github.com/hspaans/ansible-role-template)
-- Template for [LaTeX documents](https://github.com/hspaans/latex-template)
-- Template for [Python](https://github.com/hspaans/python-template) based projects
-- Template for [Typescript & Node](https://github.com/hspaans/typescript-node-template) based projects
--->
+### Repositories
+
+- [Ansible Role Action to notify Ansible Galaxy](https://github.com/hspaans/ansible-role-action)
+- [Container Images for Ansible Molecule](https://github.com/hspaans/module-containers)
+- [Devcontainer Features](https://github.com/hspaans/devcontainer-features)
+- [Devcontainer Templates](https://github.com/hspaans/devcontainer-templates)
+- [LaTeX Action for building PDFs](https://github.com/hspaans/latexmk-action)
