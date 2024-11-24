@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 📑 Repositories
 
 - [Ansible Role Action to notify Ansible Galaxy](https://github.com/hspaans/ansible-role-action)
-- [Container Images for Ansible Molecule](https://github.com/hspaans/module-containers)
+- [Container Images for Ansible Molecule](https://github.com/hspaans/molecule-containers)
 - [Devcontainer Features](https://github.com/hspaans/devcontainer-features)
 - [Devcontainer Templates](https://github.com/hspaans/devcontainer-templates)
 - [LaTeX Action for building PDFs](https://github.com/hspaans/latexmk-action)
