@@ -17,4 +17,4 @@ jobs:
       - name: Update posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://hansspaans.nl/blog/atom.xml"
+          feed_list: "https://hspaans.github.io/feed"
