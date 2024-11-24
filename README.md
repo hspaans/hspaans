@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Repositories
+### 📑 Repositories
 
 - [Ansible Role Action to notify Ansible Galaxy](https://github.com/hspaans/ansible-role-action)
 - [Container Images for Ansible Molecule](https://github.com/hspaans/module-containers)
