@@ -5,9 +5,7 @@ I’m a Staff Engingeer in the financial sector with a background in both sofwar
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading books for work and pleasure](https://hansspaans.nl/blog/2023/reading-books-for-work-and-pleasure.html)
-- [Why start blogging](https://hansspaans.nl/blog/2023/why-start-blogging.html)
-- [First blog post](https://hansspaans.nl/blog/2023/first-post.html)
+- [First blog post](https://hspaans.github.io/posts/posts/2025/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
