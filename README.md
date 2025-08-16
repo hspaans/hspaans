@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Staff Engingeer in the financial sector with a background in both sofware and electical engineering. I have a passion for discovering and playing with new things in the hope to apply that knowledge in the future.
+I'm a Staff Engineer in the financial sector with a background in both software and electrical engineering. I have a passion for discovering and playing with new things in the hope to apply that knowledge in the future.
 
 ### 📝 Latest Blog posts
 
