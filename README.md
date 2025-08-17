@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### 📑 Repositories
 
 - [Ansible Role Action to notify Ansible Galaxy](https://github.com/hspaans/ansible-galaxy-action)
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - [Devcontainer Features](https://github.com/hspaans/devcontainer-features)
 - [Devcontainer Templates](https://github.com/hspaans/devcontainer-templates)
 - [LaTeX Action for building PDFs](https://github.com/hspaans/latexmk-action)
+-->
