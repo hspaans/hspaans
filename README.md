@@ -5,8 +5,8 @@ I'm a Staff Engineer in the financial sector with a background in both software 
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why start blogging](https://hspaans.github.io/blog/blog/2025/why-start-blogging.html)
-- [First blog post](https://hspaans.github.io/blog/blog/2025/test.html)
+- [Why start blogging](https://hspaans.github.io/blog/2025/why-start-blogging.html)
+- [First blog post](https://hspaans.github.io/blog/2025/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
