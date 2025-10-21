@@ -5,11 +5,11 @@ I'm a Staff Engineer in the financial sector with a background in both software 
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deleting GitHub notifications](https://hspaans.github.io/blog/2025/deleting-github-notifications.html)
 - [One billion nested loop iterations](https://hspaans.github.io/blog/2025/one-billion-nested-loop-iterations.html)
 - [Time to contain Perl?](https://hspaans.github.io/blog/2025/time-to-contain-perl.html)
 - [Basic linting with a GitHub workflow](https://hspaans.github.io/blog/2025/basic-linting-in-a-github-workflow.html)
 - [Why start blogging](https://hspaans.github.io/blog/2025/why-start-blogging.html)
-- [First blog post](https://hspaans.github.io/blog/2025/test.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
