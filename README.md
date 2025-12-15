@@ -5,11 +5,11 @@ I'm a Staff Engineer in the financial sector with a background in both software 
 ### 📝 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reviewing dependencies](https://hspaans.github.io/blog/2025/reviewing-dependencies.html)
 - [The NAND, NOR, and XOR operators in Python](https://hspaans.github.io/blog/2025/nand-nor-xor-operators-in-python.html)
 - [Create GitHub issues on a schedule](https://hspaans.github.io/blog/2025/create-github-issue-on-schedule.html)
 - [Custom GitHub templates for issues](https://hspaans.github.io/blog/2025/custom-github-issue-templates.html)
 - [Start using GitHub Dependabot](https://hspaans.github.io/blog/2025/start-using-github-dependabot.html)
-- [Deleting GitHub notifications](https://hspaans.github.io/blog/2025/deleting-github-notifications.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
